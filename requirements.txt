@@ -4,3 +4,4 @@ matplotlib
 plotly
 scikit-learn
 pickle-mixin
+seaborn
